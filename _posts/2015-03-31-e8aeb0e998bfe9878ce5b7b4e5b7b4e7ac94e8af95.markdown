@@ -1,0 +1,14 @@
+---
+author: QX4546
+comments: true
+date: 2015-03-31 12:39:54+00:00
+layout: post
+link: http://xinchyi.com/archives/374
+slug: '%e8%ae%b0%e9%98%bf%e9%87%8c%e5%b7%b4%e5%b7%b4%e7%ac%94%e8%af%95'
+title: 记阿里巴巴笔试
+wordpress_id: 374
+categories:
+- 生活杂记
+---
+
+这并不是坏事。每一件看似在阻碍我们的事情，其实都是在帮助我们跟更好的发力。从月初知道阿里校招，到了解前端开发，再到想清楚自己今后到底想走一条什么样的路，正式近二十天阿里实习生校招所指引我明白的，虽于今晚被虐，但是一切不会就此停止。

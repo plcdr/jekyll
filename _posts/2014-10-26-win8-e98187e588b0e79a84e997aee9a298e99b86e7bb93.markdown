@@ -1,0 +1,63 @@
+---
+author: QX4546
+comments: true
+date: 2014-10-26 09:22:48+00:00
+layout: post
+link: http://xinchyi.com/archives/318
+slug: win8-%e9%81%87%e5%88%b0%e7%9a%84%e9%97%ae%e9%a2%98%e9%9b%86%e7%bb%93
+title: win8-遇到的问题集结
+wordpress_id: 318
+categories:
+- 电脑相关
+tags:
+- win7
+- win8
+- windows
+---
+
+
+	
+  1. 输入的产品密钥与用于安装任何可用windows映像都不匹配。
+
+
+
+
+解决办法：
+[EditionID]
+Professional
+[Channel]Client
+[VL]0
+新建个文本文档，将上面的复制上去，然后更改文本名字和扩展名为EI.cfg将文件放入
+Sources 文件夹。
+
+
+
+
+标准的ei.cfg文件中有三个参数：[EditionID]、[Channel]、[VL]，其中[Channel]是必须要有的，没有这个参数是无法安装的，其他两个参数可以没有。
+
+
+
+
+
+
+	
+  * 参数[EditionID]指定安装版本，删除[EditionID]，安装时会显示“版本列表”。如果保留这个参数，那么它的值必须正确才可以安装。
+
+	
+  * 参数[Channel]指定安装协议，填写“Retail、Volume、OEM”都可以，只是安装时显示的文字不同而已，安装完毕后没有影响，但是不能缺少这一参数。
+
+	
+  * 参数[VL]表示是否批量授权，“1”表示是，“0”表示否。如果填写其它错误值（非0和1），对安装系统来说没有影响。
+
+
+2.无法初始化电脑，缺少所需驱动器的分区。
+
+
+解决办法：“一键还原”的隐藏分区删掉或者被破坏了，所以无法一键还原。重装系统或者找售后恢复出厂设置吧。
+
+
+3.sfc /scannow后出现windows 资源保护无法启动修复服务。
+
+本人是在进不去系统的情况下，使用cmd命令：sfc /scannow出现的问题，暂未找到解决办法。
+
+4.安装win8，如果用大白菜等U盘启动制作工具，并采用提前解压缩ISO镜像安装原版系统时，需将bootmgr改为win8mgr，如果直接将win8 ISO镜像写入U盘，或是采用efi启动直接将iso镜像解压缩到U盘，或是在硬盘直接安装请忽略本条内容。

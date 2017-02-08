@@ -1,0 +1,22 @@
+---
+author: QX4546
+comments: true
+date: 2014-05-15 15:26:00+00:00
+layout: post
+link: http://xinchyi.com/archives/200
+slug: javac%e4%b8%8d%e6%98%af%e5%86%85%e9%83%a8%e5%91%bd%e4%bb%a4%e6%88%96%e5%a4%96%e9%83%a8%e5%91%bd%e4%bb%a4
+title: javac不是内部或外部命令...
+wordpress_id: 200
+categories:
+- 电脑相关
+tags:
+- java
+---
+
+解决方案：
+运行——>cmd
+在控制台中运行以下命令设置java环境变量即可解决：
+set java_home=C:Program FilesJavajdk1.8.0_05   (安装JDK的根目录)
+set classpath=%JAVA_HOME%libtools.jar;%JAVA_HOME%libdt.jar;
+set path=%JAVA_HOME%bin;
+注：输入不区分大小写

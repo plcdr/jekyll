@@ -1,0 +1,32 @@
+---
+author: QX4546
+comments: true
+date: 2015-03-12 03:37:07+00:00
+layout: post
+link: http://xinchyi.com/archives/343
+slug: wordpress%e5%b0%8f%e6%8a%80%e5%b7%a7%e4%b9%8b%e5%85%a5%e9%97%a8%e7%af%87
+title: Wordpress小技巧之入门篇
+wordpress_id: 343
+categories:
+- 电脑相关
+tags:
+- wordpress
+---
+
+1、选用稳定可靠的主机
+
+2、CDN加速，可使用WP Super Cache插件
+
+3、360字体加速服务
+
+打开wordpress代码中的文件wp-includes/script-loader.php文件，搜索：fonts.googleapis.com，把fonts.googleapis.com替换为fonts.useso.com
+
+4、减少使用插件
+
+5、为了安全，修改后台路径，这里说一个不使用插件的小技巧，可以将下面的代码添加到当前主题的 functions.php 文件：
+
+//保护后台登录
+add_action(‘login_enqueue_scripts’,’login_protection’);
+function login_protection(){
+if($_GET['word'] != ‘press’)header(‘Location: http://ihuan.me/’);
+}

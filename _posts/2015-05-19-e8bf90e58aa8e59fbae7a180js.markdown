@@ -1,0 +1,18 @@
+---
+author: QX4546
+comments: true
+date: 2015-05-19 15:10:14+00:00
+layout: post
+link: http://xinchyi.com/archives/415
+slug: '%e8%bf%90%e5%8a%a8%e5%9f%ba%e7%a1%80js'
+title: 运动基础JS
+wordpress_id: 415
+categories:
+- 前端开发
+tags:
+- JavaScript
+---
+
+[![daima1](http://xinchyi.com/blog/wp-content/uploads/2015/05/daima1-300x85.png)](http://xinchyi.com/blog/wp-content/uploads/2015/05/daima1.png) [![yundongjichu](http://xinchyi.com/blog/wp-content/uploads/2015/05/yundongjichu-300x155.png)](http://xinchyi.com/blog/wp-content/uploads/2015/05/yundongjichu.png)
+
+点击start，灰色块开始向右运动，点击end，灰色块停止运动。当误点击start多次后，灰色块以成倍增加的速度向右运动，但是无论点击多少次end，灰色块都不会停止。（待解决）

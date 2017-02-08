@@ -1,0 +1,17 @@
+---
+author: QX4546
+comments: true
+date: 2014-04-07 12:44:59+00:00
+layout: post
+link: http://xinchyi.com/archives/30
+slug: '%e5%86%8d%e8%a7%81%ef%bc%81xp%e5%90%9b%ef%bc%81'
+title: 再见！XP君！
+wordpress_id: 30
+categories:
+- 电脑相关
+tags:
+- windows
+- XP
+---
+
+4月8号，XP君将要光荣退役，虽然很多安全服务提供商要帮XP养老，但是作用仍然是有限的。曾经熟悉的蓝天白云绿地，熟悉的开机音乐，势必将要远去。虽然我用XP没有多少年，但是家里的台式机装的一直都是XP，这次寒假返校前才被我装成win7。多少也算有些感情，所以在虚拟机里装了XP，也算是跟XP君说个再见。[![XP](http://xinchyi.com/wp-content/uploads/2014/04/XP-300x168.png)](http://xinchyi.info/wp-content/uploads/2014/04/XP.png)

@@ -1,0 +1,33 @@
+---
+author: QX4546
+comments: true
+date: 2015-05-20 11:22:07+00:00
+layout: post
+link: http://xinchyi.com/archives/420
+slug: '%e6%ad%bb%e9%93%be%e6%8e%a5'
+title: 死链接
+wordpress_id: 420
+categories:
+- 前端开发
+tags:
+- JavaScript
+---
+
+
+	
+  1. href="#"
+
+	
+  2. href=""
+
+	
+  3. href="###"
+
+	
+  4. href="javascript:void(0);"
+
+	
+  5. href="javascript:;"
+
+
+当页面有滚动条的时候，这是前提。如果用前两者，会跳到页面定端。如果用后三者，页面不会跳到页面顶端。

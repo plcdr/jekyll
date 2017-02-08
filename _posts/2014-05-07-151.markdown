@@ -1,0 +1,16 @@
+---
+author: QX4546
+comments: true
+date: 2014-05-07 12:03:46+00:00
+layout: post
+link: http://xinchyi.com/archives/151
+slug: '151'
+title: 骑行邯郸-峰峰-磁县(20140502)
+wordpress_id: 151
+categories:
+- 在路上
+---
+
+硬盘里有太多太多的照片，每一个文件夹，每一张照片都是故事
+
+[gallery ids="392,394,395,396,399,400"]
