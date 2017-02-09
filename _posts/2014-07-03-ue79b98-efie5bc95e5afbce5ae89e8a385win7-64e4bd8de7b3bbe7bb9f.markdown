@@ -22,7 +22,7 @@ tags:
 
 **进入BIOS，从EFI启动（白色部分回车）**
 
-![efi-2](assets/2014/07/efi-2.jpg)
+![efi-2](/assets/2014/07/efi-2.jpg)
 
 **回车后会进入下面这个页面**
 
@@ -30,8 +30,8 @@ tags:
 
 **找到启动U盘，输入命令fs1: ,当然不一定是fs1,视具体情况而定**
 
-![efi-4](assets/2014/07/efi-4.jpg)
+![efi-4](/assets/2014/07/efi-4.jpg)
 
 **进一步输入命令ls可以查看内部包含文件，可以看到BOOTMGFW.EFI文件，进一步输入命令BOOTMGFW.EFI进入安装界面，后面跟普通安装一样，在此不做过多赘述**
 
-![efi-5](assets/2014/07/efi-5.jpg)
+![efi-5](/assets/2014/07/efi-5.jpg)
