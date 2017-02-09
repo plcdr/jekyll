@@ -13,6 +13,7 @@ tags:
 - JavaScript
 ---
 
-[![daima1](http://xinchyi.com/blog/wp-content/uploads/2015/05/daima1-300x85.png)](http://xinchyi.com/blog/wp-content/uploads/2015/05/daima1.png) [![yundongjichu](http://xinchyi.com/blog/wp-content/uploads/2015/05/yundongjichu-300x155.png)](http://xinchyi.com/blog/wp-content/uploads/2015/05/yundongjichu.png)
+![daima1](/assets/2015/05/daima1.png)
+![yundongjichu](/assets/2015/05/yundongjichu.png)
 
 点击start，灰色块开始向右运动，点击end，灰色块停止运动。当误点击start多次后，灰色块以成倍增加的速度向右运动，但是无论点击多少次end，灰色块都不会停止。（待解决）
