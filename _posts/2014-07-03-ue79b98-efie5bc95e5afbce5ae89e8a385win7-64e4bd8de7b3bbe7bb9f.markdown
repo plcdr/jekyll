@@ -18,20 +18,20 @@ tags:
 
 **首先，将系统镜像、EFI x64文件（红色圈中）解压缩到U盘根目录，注意U盘格式为FAT32。**
 
-[![efi-1](http://xinchyi.com/wp-content/uploads/2014/07/efi-1-300x238.jpg)](http://xinchyi.com/wp-content/uploads/2014/07/efi-1.jpg)
+![efi-1](/assets/2014/07/efi-1.jpg)
 
 **进入BIOS，从EFI启动（白色部分回车）**
 
-[![efi-2](http://xinchyi.com/wp-content/uploads/2014/07/efi-2-300x200.jpg)](http://xinchyi.com/wp-content/uploads/2014/07/efi-2.jpg)
+![efi-2](assets/2014/07/efi-2.jpg)
 
 **回车后会进入下面这个页面**
 
-[![efi-3](http://xinchyi.com/wp-content/uploads/2014/07/efi-3-300x203.jpg)](http://xinchyi.com/wp-content/uploads/2014/07/efi-3.jpg)
+![efi-3](/assets/2014/07/efi-3.jpg)
 
 **找到启动U盘，输入命令fs1: ,当然不一定是fs1,视具体情况而定**
 
-[![efi-4](http://xinchyi.com/wp-content/uploads/2014/07/efi-4-300x203.jpg)](http://xinchyi.com/wp-content/uploads/2014/07/efi-4.jpg)
+![efi-4](assets/2014/07/efi-4.jpg)
 
 **进一步输入命令ls可以查看内部包含文件，可以看到BOOTMGFW.EFI文件，进一步输入命令BOOTMGFW.EFI进入安装界面，后面跟普通安装一样，在此不做过多赘述**
 
-[![efi-5](http://xinchyi.com/wp-content/uploads/2014/07/efi-5-300x203.jpg)](http://xinchyi.com/wp-content/uploads/2014/07/efi-5.jpg)
+![efi-5](assets/2014/07/efi-5.jpg)
