@@ -3,10 +3,7 @@ author: QX4546
 comments: true
 date: 2015-07-07 01:48:08+00:00
 layout: post
-link: http://xinchyi.com/archives/461
-slug: 7-7%e5%b0%8f%e7%bb%93
-title: 7.7小结
-wordpress_id: 461
+title: 7月7日小结
 categories:
 - 生活杂记
 ---
