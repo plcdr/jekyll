@@ -17,7 +17,7 @@ about-author: 爱吃小鱼干儿的产品经理 # add description
 social-email: qixin@blockcaff.com # add your Email address
 
 # Tracker
-analytics: # Google Analytics
+analytics: # Baidu Analytics
 
 # Build Settings
 markdown: kramdown
