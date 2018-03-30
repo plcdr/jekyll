@@ -6,9 +6,7 @@ layout: post
 link: http://xinchyi.com/archives/151
 slug: '151'
 title: 骑行邯郸-峰峰-磁县(20140502)
-wordpress_id: 151
-categories:
-- 在路上
+img: 2014/05/20140502-5.jpg
 ---
 
 硬盘里有太多太多的照片，每一个文件夹，每一张照片都是故事

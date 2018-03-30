@@ -6,9 +6,7 @@ layout: post
 link: http://xinchyi.com/archives/410
 slug: 2015-05%e9%aa%91%e8%a1%8c%e6%b2%b3%e5%8d%97%e5%bc%80%e5%b0%81
 title: 2015-05骑行河南开封
-wordpress_id: 410
-categories:
-- 在路上
+img: 2015/05/7c47129563ab4a6e.jpg
 ---
 
 ![骑行河南开封](/assets/img/2015/05/7c47129563ab4a6e.jpg)
