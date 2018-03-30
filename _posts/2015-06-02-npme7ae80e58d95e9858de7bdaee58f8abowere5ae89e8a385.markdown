@@ -1,17 +1,10 @@
 ---
-author: QX4546
+author: qixin
 comments: true
 date: 2015-06-02 04:16:57+00:00
 layout: post
-link: http://xinchyi.com/archives/432
-slug: npm%e7%ae%80%e5%8d%95%e9%85%8d%e7%bd%ae%e5%8f%8abower%e5%ae%89%e8%a3%85
 title: npm简单配置及bower安装
-wordpress_id: 432
-categories:
-- 电脑相关
-tags:
-- Bower
-- npm
+tags: [Bower,npm]
 ---
 
-![npm简单配置及安装bower](/assets/2015/06/npm_bower.png)
+![npm简单配置及安装bower](/assets/img/2015/06/npm_bower.png)
