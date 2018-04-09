@@ -4,7 +4,7 @@ date: 2018-04-08
 layout: post
 title: 日事清 vs Teambition竞品分析
 img: 2018/04/competitor-analysis.png
-tags: [作品集]
+tags: [竞品分析,日事清,teambition]
 ---
 
 ![日事清 vs Teambition竞品分析](/assets/img/2018/04/rishiqingvsteambition0.png "日事清 vs Teambition竞品分析"){:style="box-shadow: 1px 1px 2px 1px rgba(31, 35, 46, 0.15)"}
