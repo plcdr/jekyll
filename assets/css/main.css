@@ -1080,10 +1080,11 @@ table tfoot td {
 
 .contact ul li a .icon-dayuhao {
   display: inline-block;
-  height: 24px;
+  height: 16px;
   width: 69px;
   background: url(../img/icon-dayuhao.png) no-repeat;
-  background-size: 69px 24px;
+  background-size: 69px 16px;
+  vertical-align: -2px;
 }
 .contact ul li a .icon-baijiahao {
   display: inline-block;
