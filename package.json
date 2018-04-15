@@ -16,6 +16,7 @@
     "imagemin-pngquant": "^5.0.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "node-sass": "^4.8.3"
   }
 }
