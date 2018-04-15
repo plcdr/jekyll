@@ -1081,13 +1081,13 @@ table tfoot td {
 .contact ul li a .icon-dayuhao {
   display: inline-block;
   height: 14px;
-  background: url(../../../img/icon-dayuhao.png) no-repeat;
+  background: url(../img/icon-dayuhao.png) no-repeat;
   background-size: auto 14px;
 }
 .contact ul li a .icon-baijiahao {
   display: inline-block;
   height: 14px;
-  background: url(../../../img/icon-baijiahao.png) no-repeat;
+  background: url(../img/icon-baijiahao.png) no-repeat;
   background-size: auto 14px;
 }
 
