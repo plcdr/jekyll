@@ -16,9 +16,6 @@ about-author: Think big, start small, act fast. # add description
 # social-linkedin: # add your Linkedin handle
 social-email: qixin@blockcaff.com # add your Email address
 
-# Tracker
-analytics: # Baidu Analytics
-
 # Build Settings
 markdown: kramdown
 plugins:
