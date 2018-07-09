@@ -6,14 +6,14 @@ layout: post
 link: http://xinchyi.com/archives/151
 slug: '151'
 title: 骑行邯郸-峰峰-磁县(20140502)
-img: 2014/05/20140502-5.jpg
+img: http://pblq6h54x.bkt.clouddn.com/post/img/20140502-5.jpg
 ---
 
 硬盘里有太多太多的照片，每一个文件夹，每一张照片都是故事
 
-![骑行峰峰矿区](/assets/img/2014/05/20140502-5.jpg)
-![骑行峰峰矿区](/assets/img/2014/05/P40502-100021.jpg)
-![骑行峰峰矿区](/assets/img/2014/05/P40502-101814.jpg)
-![骑行峰峰矿区](/assets/img/2014/05/P40502-101823.jpg)
-![骑行峰峰矿区](/assets/img/2014/05/P40502-101856.jpg)
-![骑行峰峰矿区](/assets/img/2014/05/P40502-112909.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/20140502-5.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/P40502-100021.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/P40502-101814.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/P40502-101823.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/P40502-101856.jpg)
+![骑行峰峰矿区](http://pblq6h54x.bkt.clouddn.com/post/img/P40502-112909.jpg)

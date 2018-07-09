@@ -6,8 +6,8 @@ layout: post
 link: http://xinchyi.com/archives/410
 slug: 2015-05%e9%aa%91%e8%a1%8c%e6%b2%b3%e5%8d%97%e5%bc%80%e5%b0%81
 title: 2015-05骑行河南开封
-img: 2015/05/7c47129563ab4a6e.jpg
+img: http://pblq6h54x.bkt.clouddn.com/post/img/7c47129563ab4a6e.jpg
 ---
 
-![骑行河南开封](/assets/img/2015/05/7c47129563ab4a6e.jpg)
-![骑行河南开封](/assets/img/2015/05/2015-05-03-22.53.52.jpg)
+![骑行河南开封](http://pblq6h54x.bkt.clouddn.com/post/img/7c47129563ab4a6e.jpg)
+![骑行河南开封](http://pblq6h54x.bkt.clouddn.com/post/img/2015-05-03-22.53.52.jpg)
