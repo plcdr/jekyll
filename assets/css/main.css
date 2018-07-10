@@ -986,7 +986,8 @@ table tfoot td {
 
 .content-box {
   padding: 20px;
-  padding-left: 260px;
+  max-width: 1000px;
+  margin: 0 auto;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1083,15 +1084,18 @@ table tfoot td {
   height: 16px;
   width: 55px;
   background: url(../img/icon-dayuhao.png) no-repeat;
-  background-size: auto 16px;
+  -webkit-background-size: auto 16px;
+          background-size: auto 16px;
   vertical-align: -2px;
 }
+
 .contact ul li a .icon-baijiahao {
   display: inline-block;
   height: 14px;
   width: 59px;
-  background: url(../img/icon-baijiahao.png) no-repeat;
-  background-size: auto 14px;
+  background: url(../../../img/icon-baijiahao.png) no-repeat;
+  -webkit-background-size: auto 14px;
+          background-size: auto 14px;
 }
 
 footer .copyright {
