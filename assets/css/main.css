@@ -1204,6 +1204,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
+  width: 960px;
 }
 
 .header-page {
