@@ -1,6 +1,6 @@
 ---
 author: qixin
-date: 2017-07-14
+date: 2018-07-14
 layout: post
 title: Vue CLI 3之webpack配置vconsole
 img: http://pblq6h54x.bkt.clouddn.com/post/img/vconsole.png
