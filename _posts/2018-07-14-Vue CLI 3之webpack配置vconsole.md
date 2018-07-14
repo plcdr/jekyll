@@ -35,4 +35,4 @@ tags: [前端, Vue]
 
 ``npm run debug``开启vconsole
 
-![vconsole演示效果](http://pblq6h54x.bkt.clouddn.com/post/img/vconsole_demo.png)
+![vconsole演示效果](http://pblq6h54x.bkt.clouddn.com/post/img/vconsole_demo.png:style="width: 375px")
