@@ -35,6 +35,6 @@ tags: [前端, Vue]
 
 ``npm run debug``开启vconsole
 
-![vconsole演示效果](http://pblq6h54x.bkt.clouddn.com/post/img/vconsole_demo.png| width=375px)
+![vconsole演示效果](http://pblq6h54x.bkt.clouddn.com/post/img/vconsole_demo.png| =375x "vconsole演示效果")
 
 <!-- ![vconsole演示效果](http://pblq6h54x.bkt.clouddn.com/post/img/vconsole_demo.png| width=375px){:style="box-shadow: 1px 1px 2px 1px rgba(31, 35, 46, 0.15)"} -->
